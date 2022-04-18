@@ -1,2 +1,3 @@
 theme: jekyll-theme-slate
 start_url: test.html
+baseurl: /testsite
