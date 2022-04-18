@@ -1,2 +1,4 @@
 theme: jekyll-theme-merlot
+include:
+  - README.md
 
