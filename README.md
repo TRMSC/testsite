@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Das ist eine Testseite
 
 
